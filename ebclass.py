@@ -20,7 +20,7 @@ np.random.seed(37)
 random.seed(1254)
 tf.random.set_seed(89)
 
-# Path for the images. Check ReadMe to download image data.
+# Path for the training images. Check ReadMe to download image data.
 a_dir = os.path.join('../path/to/contact')
 b_dir = os.path.join('../path/to/detached')
 c_dir = os.path.join('../path/to/semi-detached')
@@ -51,10 +51,10 @@ def Gaussian(im):
     return gaussian(im, sigma=rand(0,5))
 
 # Define image data directories and data generation
-TRAINING_DIR = "../input/trainclass/train"
+TRAINING_DIR = "/path/to/trainingdir"
 training_datagen = ImageDataGenerator(rescale = 1./255,preprocessing_function=Gaussian)
 
-VALIDATION_DIR = "../input/validationclass/validation"
+VALIDATION_DIR = "/path/to/validationdir"
 validation_datagen = ImageDataGenerator(rescale = 1./255)
 
 train_generator = training_datagen.flow_from_directory(
