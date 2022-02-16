@@ -43,11 +43,10 @@ if K.image_data_format() == 'channels_first':
 else:
     input_shape = (img_width, img_height, 3)
 
-# Apply random Gaussian blur to training images to augment
+# Apply random Gaussian blur to training images to be augmented
 def rand(a, b):
     return np.random.rand() * (b - a) + a
 def Gaussian(im):
-    # Gaussian filter for bluring the image with random variance.
     return gaussian(im, sigma=rand(0,5))
 
 # Define image data directories and data generation
