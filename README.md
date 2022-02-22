@@ -14,11 +14,11 @@ We present an image classification algorithm using deep learning convolutional n
 <br>
 ###### *Light curve data are from*:
 
-- Kirk, B. et al. 2016. AJ, 151, 68. (http://keplerebs.villanova.edu)
+- Kirk, B. et al. 2016. AJ, 151, 68. [(Kepler)](http://keplerebs.villanova.edu)
 
-- Pojmanski, G. 1997. AcA 47, 467. (http://www.astrouw.edu.pl/asas/)
+- Pojmanski, G. 1997. AcA 47, 467. [(ASAS)](http://www.astrouw.edu.pl/asas/)
 
-- Bradstreet, D. H. et al. 2004. AAS, 204, 501. (http://caleb.eastern.edu)
+- Bradstreet, D. H. et al. 2004. AAS, 204, 501. [(CALEB)](http://caleb.eastern.edu)
 <br>
 <br>
-<!-- ** You can contribute to human-confirmed data collection for better classification:** https://docs.google.com/forms/d/e/1FAIpQLSf-Yp_EK9AIdjvRKyflKlc0IjC4RXkIClbWl2PXqXKukfbNHQ/viewform?usp=sf_link -->
+<!-- **We are collecting human-confirmed data from literature for more precise classification. You can contribute to collection via [This Form](https://docs.google.com/forms/d/e/1FAIpQLSf-Yp_EK9AIdjvRKyflKlc0IjC4RXkIClbWl2PXqXKukfbNHQ/viewform?usp=sf_link)** -->
