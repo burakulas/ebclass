@@ -5,7 +5,7 @@ We present an image classification algorithm using deep learning convolutional n
 <br>
 ###### *Files in main branch*:
 
-**ebclass.py**: Python code applying the classification (edit it according to your dataset location).
+**ebclass.py**: Python code applying the classification (edit it according to your dataset path).
 
 **train_set.tar.gz**: Training dataset.
 
