@@ -21,4 +21,4 @@ We present an image classification algorithm using deep learning convolutional n
 - Bradstreet, D. H. et al. 2004. AAS, 204, 501. [(CALEB)](http://caleb.eastern.edu)
 <br>
 <br>
-<!-- **We are collecting human-confirmed data from literature for more precise classification. You can contribute to collection via [This Form](https://docs.google.com/forms/d/e/1FAIpQLSf-Yp_EK9AIdjvRKyflKlc0IjC4RXkIClbWl2PXqXKukfbNHQ/viewform?usp=sf_link)** -->
+<!-- **We are collecting human-confirmed data from literature for more precise classification. You can contribute to collection via [This Link](https://docs.google.com/forms/d/e/1FAIpQLSf-Yp_EK9AIdjvRKyflKlc0IjC4RXkIClbWl2PXqXKukfbNHQ/viewform?usp=sf_link)** -->
