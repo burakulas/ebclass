@@ -19,6 +19,6 @@ We present an image classification algorithm using deep learning convolutional n
 - Pojmanski, G. 1997. AcA 47, 467. [(ASAS)](http://www.astrouw.edu.pl/asas/)
 
 - Bradstreet, D. H. et al. 2004. AAS, 204, 501. [(CALEB)](http://caleb.eastern.edu)
-<br>
-<br>
-<!-- **We are collecting human-confirmed data from literature for more precise classification. You can contribute to collection via [This Link](https://docs.google.com/forms/d/e/1FAIpQLSf-Yp_EK9AIdjvRKyflKlc0IjC4RXkIClbWl2PXqXKukfbNHQ/viewform?usp=sf_link)** -->
+
+### **! *MORE DATA*: We are collecting human-confirmed data from the literature for more precise classification. You can contribute to collection via** [this Link](https://docs.google.com/forms/d/e/1FAIpQLSf-Yp_EK9AIdjvRKyflKlc0IjC4RXkIClbWl2PXqXKukfbNHQ/viewform?usp=sf_link)
+
