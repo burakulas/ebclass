@@ -7,7 +7,7 @@ ebclass is an image classification algorithm with deep learning convolutional ne
 
 **ebclass.py**: Python code applying the classification (edit it according to your dataset path).
 
-**model.zip**: .h5 model file.
+**model.zip**: .hd5 model file.
 
 **train_set.tar.gz**: Training dataset.
 
