@@ -1,7 +1,7 @@
 # ebclass
 ### A Deep Learning Neural Network Algorithm for Classification of Eclipsing Binary Light Curves
 
-ebclass is an image classification algorithm with deep learning convolutional neural network architecture classifiying the eclipsing binary systems morphologically based on their light curves. The algorithm classifies the light curve images of eclipsing binary stars in three morphological types, contact, detached and semi-detached. Results show that it estimates the morphologies of an independent dataset with an accuracy of 91\%.
+**ebclass** is an image classification algorithm with deep learning convolutional neural network architecture classifiying the eclipsing binary systems morphologically based on their light curves. The algorithm classifies the light curve images of eclipsing binary stars in three morphological types, contact, detached and semi-detached. Results show that it estimates the morphologies of an independent dataset with an accuracy of 91\%.
 <br>
 ###### *Files in main branch*:
 
