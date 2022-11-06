@@ -5,7 +5,7 @@
 <br>
 ###### *Files in main branch*:
 
-**ebclass.py**: Python code applying the classification (edit it according to your dataset path).
+**ebclass.py**: Python code applying the classification.
 
 **model.zip**: .hd5 model file.
 
