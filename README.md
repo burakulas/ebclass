@@ -7,9 +7,9 @@
 
 **ebclass.py**: Python code applying the classification.
 
-**model.zip**: .hd5 model file.
+**model.tar.gz**: .hd5 model file.
 
-**train_set.tar.gz**: Training dataset.
+**training_set.tar.gz**: Training dataset. (splitted into 2 parts, to join: cat training_set.a* > training_set.tar.gz)
 
 **validation_set.tar.gz**: Validation dataset.
 <br>
