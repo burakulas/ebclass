@@ -16,7 +16,7 @@
 <br>
 ###### *Light curve data are from*:
 
-- Kirk, B. et al. 2016. AJ, 151, 68. [(Kepler)](http://keplerebs.villanova.edu)
+- Kirk, B. et al. 2016. AJ, 151, 68. [(Kepler EBC)](http://keplerebs.villanova.edu)
 
 - Pojmanski, G. 1997. AcA 47, 467. [(ASAS)](http://www.astrouw.edu.pl/asas/)
 
