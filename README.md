@@ -9,7 +9,7 @@
 
 **model.tar.gz**: .hd5 model file.
 
-**training_set.tar.gz**: Training dataset. (splitted into 2 parts, to join: cat training_set.a* > training_set.tar.gz)
+**training_set.tar.gz**: Training dataset. (splitted into 2 parts, to join: `cat training_set.a* > training_set.tar.gz`)
 
 **validation_set.tar.gz**: Validation dataset.
 <br>
