@@ -22,5 +22,3 @@
 
 - Bradstreet, D. H. et al. 2004. AAS, 204, 501. [(CALEB](http://caleb.eastern.edu), former [EBOLA)](https://ui.adsabs.harvard.edu/abs/2004AAS...204.0501B/abstract)
 
-### **! *MORE DATA*: We are collecting human-confirmed data from the literature for more precise classification. You can contribute to collection via** [this Link](https://docs.google.com/forms/d/e/1FAIpQLSf-Yp_EK9AIdjvRKyflKlc0IjC4RXkIClbWl2PXqXKukfbNHQ/viewform?usp=sf_link)
-
